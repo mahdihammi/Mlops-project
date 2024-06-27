@@ -10,3 +10,7 @@ Our standard training pipeline consists of several steps:
 
 The picture below shows zenml dashboards for tracking pipelines with versions and with DAG visualizers 
 ![zenml pipeline](https://github.com/mahdihammi/Mlops-project/assets/89527502/ed9ce127-fe7f-47ce-ad6a-be96c02f7e2d)   ![zenml pipeline 2](https://github.com/mahdihammi/Mlops-project/assets/89527502/f4beaa14-067d-436b-929e-9de513659232)
+
+We used MLflow for experiments tracking and deployment
+![mlflow 1](https://github.com/mahdihammi/Mlops-project/assets/89527502/2488b861-1527-414b-b411-005d81e94cd0)
+![mlflow ](https://github.com/mahdihammi/Mlops-project/assets/89527502/068662c3-40ad-485f-a0d8-a304f0f081c6)
